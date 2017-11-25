@@ -1,0 +1,30 @@
+body div {
+  font-family: "Times", sans-serif;
+  
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  width: 90%;
+}
+
+p {
+  font-size: 12pt;
+}
+
+body div, p img {
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(70, 180, 255);
+}
+
+p, img {
+  margin-bottom: 20px;
+}
